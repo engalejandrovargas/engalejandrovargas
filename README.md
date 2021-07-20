@@ -1,0 +1,4 @@
+- 👋 Hi, I’m eng. Alejandro Aargas
+- 👀 I’m interested in Chemical Engineering, Data Science in general and Ai in particular.
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on anything fun. =)
