@@ -9,11 +9,10 @@
 <sub>Spanish (native) · English (IELTS-C1) · Japanese (JLPT N3)</sub>
 
 <a href="https://alejandrovargas.co"><b>alejandrovargas.co</b></a>&nbsp; ·&nbsp; <a href="https://linkedin.com/in/luis-alejandro-vargas-ramos/"><b>LinkedIn</b></a>
-
-</div>
-
 <br>
-
+<br>
+**Side Projects**
+</div>
 <table width="100%">
 <tr>
 <td width="33.33%" valign="top" align="center">
