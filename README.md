@@ -17,14 +17,14 @@
 <table width="100%">
 <tr>
 <td width="33.33%" valign="top" align="center">
-<a href="https://calorietally.com"><img src="assets/calorietally.png" width="100%" alt="CalorieTally dashboard" /></a>
+<a href="https://www.youtube.com/watch?v=iKG8IfcULN4"><img src="assets/calorietally.png" width="100%" alt="Watch the CalorieTally demo" /></a>
 <br /><br />
 <b><a href="https://calorietally.com">CalorieTally</a></b>
 <br />
 <sub>Log a meal by typing it, saying it, or photographing it. The AI handles the nutrition.</sub>
 </td>
 <td width="33.33%" valign="top" align="center">
-<a href="https://travelforce.app"><img src="assets/travelforce.png" width="100%" alt="Travelforce dashboard" /></a>
+<a href="https://www.youtube.com/watch?v=XtJjQS98rIA"><img src="assets/travelforce.png" width="100%" alt="Watch the Travelforce demo" /></a>
 <br /><br />
 <b><a href="https://travelforce.app">Travelforce</a></b>
 <br />
