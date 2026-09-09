@@ -40,55 +40,67 @@
 </tr>
 </table>
 
-
 <br>
 
 <div align="center">
 
-**Backend**
-
-<img src="assets/icons/python.svg" width="40" height="40" alt="Python" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/django.svg" width="40" height="40" alt="Django" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/fastapi.svg" width="40" height="40" alt="FastAPI" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/flask.svg" width="40" height="40" alt="Flask" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/nodejs.svg" width="40" height="40" alt="Node.js" />&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
+<td width="190" align="right" valign="middle"><b>Backend</b></td>
+<td valign="middle">
+<img src="assets/icons/python.svg" width="40" height="40" alt="Python" />&nbsp;&nbsp;
+<img src="assets/icons/django.svg" width="40" height="40" alt="Django" />&nbsp;&nbsp;
+<img src="assets/icons/fastapi.svg" width="40" height="40" alt="FastAPI" />&nbsp;&nbsp;
+<img src="assets/icons/flask.svg" width="40" height="40" alt="Flask" />&nbsp;&nbsp;
+<img src="assets/icons/nodejs.svg" width="40" height="40" alt="Node.js" />&nbsp;&nbsp;
 <img src="assets/icons/celery.svg" width="40" height="40" alt="Celery" />
-
-**Frontend**
-
-<img src="assets/icons/react.svg" width="40" height="40" alt="React" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Frontend</b></td>
+<td valign="middle">
+<img src="assets/icons/react.svg" width="40" height="40" alt="React" />&nbsp;&nbsp;
+<img src="assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;
+<img src="assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;
 <img src="assets/icons/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS" />
-
-**Machine learning and AI**
-
-<img src="assets/icons/pytorch.svg" width="40" height="40" alt="PyTorch" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/tensorflow.svg" width="40" height="40" alt="TensorFlow" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/scikitlearn.svg" width="40" height="40" alt="scikit-learn" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/huggingface.svg" width="40" height="40" alt="Hugging Face" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/langchain.svg" width="40" height="40" alt="LangChain" />&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Machine learning and AI</b></td>
+<td valign="middle">
+<img src="assets/icons/pytorch.svg" width="40" height="40" alt="PyTorch" />&nbsp;&nbsp;
+<img src="assets/icons/tensorflow.svg" width="40" height="40" alt="TensorFlow" />&nbsp;&nbsp;
+<img src="assets/icons/scikitlearn.svg" width="40" height="40" alt="scikit-learn" />&nbsp;&nbsp;
+<img src="assets/icons/huggingface.svg" width="40" height="40" alt="Hugging Face" />&nbsp;&nbsp;
+<img src="assets/icons/langchain.svg" width="40" height="40" alt="LangChain" />&nbsp;&nbsp;
 <img src="assets/icons/opencv.svg" width="40" height="40" alt="OpenCV" />
-
-**Data and infrastructure**
-
-<img src="assets/icons/postgresql.svg" width="40" height="40" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/redis.svg" width="40" height="40" alt="Redis" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/docker.svg" width="40" height="40" alt="Docker" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/aws.svg" width="40" height="40" alt="AWS" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare" />&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>Data and infrastructure</b></td>
+<td valign="middle">
+<img src="assets/icons/postgresql.svg" width="40" height="40" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="assets/icons/redis.svg" width="40" height="40" alt="Redis" />&nbsp;&nbsp;
+<img src="assets/icons/docker.svg" width="40" height="40" alt="Docker" />&nbsp;&nbsp;
+<img src="assets/icons/aws.svg" width="40" height="40" alt="AWS" />&nbsp;&nbsp;
+<img src="assets/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud" />&nbsp;&nbsp;
+<img src="assets/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare" />&nbsp;&nbsp;
 <img src="assets/icons/git.svg" width="40" height="40" alt="Git" />
-
-**Scientific computing and bioinformatics**
-
-<img src="assets/icons/anaconda.svg" width="40" height="40" alt="Anaconda" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/jupyter.svg" width="40" height="40" alt="Jupyter" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/numpy.svg" width="40" height="40" alt="NumPy" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/pandas.svg" width="40" height="40" alt="pandas" />&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td align="right" valign="top"><b>Scientific and bioinformatics</b></td>
+<td valign="middle">
+<img src="assets/icons/anaconda.svg" width="40" height="40" alt="Anaconda" />&nbsp;&nbsp;
+<img src="assets/icons/jupyter.svg" width="40" height="40" alt="Jupyter" />&nbsp;&nbsp;
+<img src="assets/icons/numpy.svg" width="40" height="40" alt="NumPy" />&nbsp;&nbsp;
+<img src="assets/icons/pandas.svg" width="40" height="40" alt="pandas" />&nbsp;&nbsp;
 <img src="assets/icons/matplotlib.svg" width="40" height="40" alt="Matplotlib" />
-
+<br />
 <sub>Oxford Nanopore · Dorado · Biopython · pysam · samtools · Octopus · WhatsHap</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
