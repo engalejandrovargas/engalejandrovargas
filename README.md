@@ -19,21 +19,21 @@
 <td width="33.33%" valign="top" align="center">
 <a href="https://www.youtube.com/watch?v=iKG8IfcULN4"><img src="assets/calorietally.png" width="100%" alt="Watch the CalorieTally demo" /></a>
 <br /><br />
-<b><a href="https://calorietally.com">CalorieTally</a></b>
+<b><a href="https://calorietally.com">calorietally.com</a></b>
 <br />
 <sub>Log a meal by typing it, saying it, or photographing it. The AI handles the nutrition.</sub>
 </td>
 <td width="33.33%" valign="top" align="center">
 <a href="https://www.youtube.com/watch?v=XtJjQS98rIA"><img src="assets/travelforce.png" width="100%" alt="Watch the Travelforce demo" /></a>
 <br /><br />
-<b><a href="https://travelforce.app">Travelforce</a></b>
+<b><a href="https://travelforce.app">travelforce.app</a></b>
 <br />
 <sub>Trip planning, itineraries and quotes for travel agencies, each drafted first by AI.</sub>
 </td>
 <td width="33.33%" valign="top" align="center">
 <a href="https://operx.pro"><img src="assets/operx.png" width="100%" alt="OperX dashboard" /></a>
 <br /><br />
-<b><a href="https://operx.pro">OperX</a></b>
+<b><a href="https://operx.pro">operx.pro</a></b>
 <br />
 <sub>Work orders for maintenance crews, built to keep working where there is no signal.</sub>
 </td>
