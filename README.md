@@ -59,7 +59,7 @@
 </tr>
 <tr>
 <td align="right" valign="middle"><b>Data and infrastructure</b></td>
-<td valign="middle"><img src="assets/stack-data.svg" width="376" height="40" alt="PostgreSQL, Redis, Docker, AWS, Google Cloud, Cloudflare, Git" /></td>
+<td valign="middle"><img src="assets/stack-data.svg" width="432" height="40" alt="PySpark, PostgreSQL, Redis, Docker, AWS, Google Cloud, Cloudflare, Git" /></td>
 </tr>
 <tr>
 <td align="right" valign="top"><b>Scientific and bioinformatics</b></td>
