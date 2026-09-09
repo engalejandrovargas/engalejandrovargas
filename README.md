@@ -4,7 +4,7 @@
 
 **Software Engineer · AI/ML and Full-Stack**
 
-15+ years shipping production systems: genomic sequencing pipelines for clinical labs in Japan, multi-tenant SaaS platforms built end to end, and machine learning that reaches production instead of staying in a notebook.
+15+ years shipping production systems: From genomic sequencing pipelines for clinical labs, multi-tenant SaaS platforms built end to end, to machine learning that reaches production instead of staying in a notebook.
 
 <sub>Spanish (native) · English (C1, IELTS 7) · Japanese (JLPT N3)</sub>
 
@@ -40,9 +40,6 @@
 </tr>
 </table>
 
-<div align="center">
-<sub>Also building <b>Documenty</b>, a multi-tenant RAG platform for querying large private document sets.</sub>
-</div>
 
 <br>
 
