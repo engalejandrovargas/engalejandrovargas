@@ -78,10 +78,15 @@
 <img src="assets/icons/aws.svg" width="40" height="40" alt="AWS" />&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud" />&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/git.svg" width="40" height="40" alt="Git" />&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/anaconda.svg" width="40" height="40" alt="Anaconda" />
+<img src="assets/icons/git.svg" width="40" height="40" alt="Git" />
 
-**Bioinformatics**
+**Scientific computing and bioinformatics**
+
+<img src="assets/icons/anaconda.svg" width="40" height="40" alt="Anaconda" />&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/jupyter.svg" width="40" height="40" alt="Jupyter" />&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/numpy.svg" width="40" height="40" alt="NumPy" />&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/pandas.svg" width="40" height="40" alt="pandas" />&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/matplotlib.svg" width="40" height="40" alt="Matplotlib" />
 
 <sub>Oxford Nanopore · Dorado · Biopython · pysam · samtools · Octopus · WhatsHap</sub>
 
