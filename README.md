@@ -23,27 +23,27 @@ I build and ship production SaaS end to end, from the data model to the deployed
 
 <br><br>
 
-### [CalorieTally](https://calorietally.com)
+## [CalorieTally](https://calorietally.com)
 
 Log a meal by typing it, saying it, or photographing it. The AI handles the nutrition.
 
-<img src="assets/calorietally.png" alt="CalorieTally dashboard" />
+<img src="assets/calorietally.png" width="100%" alt="CalorieTally dashboard" />
 
 <br>
 
-### [Travelforce](https://travelforce.app)
+## [Travelforce](https://travelforce.app)
 
 Trip planning, itineraries and quotes for travel agencies, with AI drafting the first version of each.
 
-<img src="assets/travelforce.png" alt="Travelforce dashboard" />
+<img src="assets/travelforce.png" width="100%" alt="Travelforce dashboard" />
 
 <br>
 
-### [OperX](https://operx.pro)
+## [OperX](https://operx.pro)
 
 Work orders for maintenance crews, built to keep working where there is no signal.
 
-<img src="assets/operx.png" alt="OperX dashboard" />
+<img src="assets/operx.png" width="100%" alt="OperX dashboard" />
 
 <br>
 
