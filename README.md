@@ -62,11 +62,15 @@
 <td valign="middle"><img src="assets/stack-data.svg" width="432" height="40" alt="PySpark, PostgreSQL, Redis, Docker, AWS, Google Cloud, Cloudflare, Git" /></td>
 </tr>
 <tr>
-<td align="right" valign="top"><b>Scientific and bioinformatics</b></td>
+<td align="right" valign="middle"><b>Scientific computing</b></td>
+<td valign="middle"><img src="assets/stack-science.svg" width="264" height="40" alt="Anaconda, Jupyter, NumPy, pandas, Matplotlib" /></td>
+</tr>
+<tr>
+<td align="right" valign="top"><b>Bioinformatics</b></td>
 <td valign="middle">
-<img src="assets/stack-science.svg" width="264" height="40" alt="Anaconda, Jupyter, NumPy, pandas, Matplotlib" />
+<img src="assets/stack-bio.png" width="208" height="40" alt="Oxford Nanopore, Biopython, WhatsHap, Octopus" />
 <br />
-<sub>Oxford Nanopore · Dorado · Biopython · pysam · samtools · Octopus · WhatsHap</sub>
+<sub>Dorado · pysam · samtools</sub>
 </td>
 </tr>
 </table>
